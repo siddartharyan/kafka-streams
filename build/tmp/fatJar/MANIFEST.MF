@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: Wordcountjar
+Main-Class: com.app.StreamstarterApp
+
